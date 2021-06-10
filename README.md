@@ -18,6 +18,7 @@ Concevoir un agent / bot qui interroge une page web, extraie des données, alime
 ## Présentation des résultats dans une page web construite en HTML, CSS et bootstrap
 
 Pour le voir, vous devez télécharger le dossier appelé : Graphs_et_tableau_Norris
+
 https://drive.google.com/drive/folders/1Ym35MVoP0hkyJpHWEKbb9mmvNYVrfgjT
 
 C'est le fichier qui contient la page web: tableaux _20201217.html
