@@ -15,7 +15,7 @@ Concevoir un agent / bot qui interroge une page web, extraie des données, alime
 
 1 Trello du projet
 
-## Présentation des résultats dans une page web construite en HTML, CSS et bootstrap
+## Présentation des résultats dans une page web construite en HTML, CSS et Javascript
 
 Pour le voir, vous devez télécharger le dossier appelé : Graphs_et_tableau_Norris
 
